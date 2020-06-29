@@ -9,3 +9,5 @@ I really like cats. Before I wasn't a cat believer but now I am. Squirtle is my 
 * Medium
 * white
 * grey 
+
+> Life is Hard, but find those who make it tolerable
